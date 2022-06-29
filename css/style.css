@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+.navbar-custom{
+    background: rgb(135, 205, 182);
+  
+}
+
+nav li a{
+    color: black;
+    
+}
+
+nav li a:hover{
+    color: azure;
+    
+}
+
+.carousel-caption h5{
+    position: relative;
+    bottom: 17rem;
+    font-size: 2.9rem;
+}
+
+.carousel-item{
+    margin-bottom: 2rem;
+}
+
+.card-deck{
+    margin-bottom: 2rem;
+}
+
+.footer{
+    background-color: rgb(59, 55, 55);
+    color: aliceblue;
+}

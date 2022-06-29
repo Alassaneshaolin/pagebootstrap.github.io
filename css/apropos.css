@@ -1,0 +1,14 @@
+.navbar-custom{
+    background: rgb(135, 205, 182);
+  
+}
+
+nav li a{
+    color: black;
+    
+}
+
+nav li a:hover{
+    color: azure;
+    
+}
